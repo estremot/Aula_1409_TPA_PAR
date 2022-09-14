@@ -29,7 +29,7 @@
     }
     else{
     ?>
-     <p class="alert alert-danger">
+     <p class="alert alert-success">
         O valor <?php echo($n1); ?> É <?php echo($resposta); ?>
     </p>
     <?php
